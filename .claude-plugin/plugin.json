@@ -1,0 +1,13 @@
+{
+  "name": "resonix-skills",
+  "description": "Resonix Skills Collection: Enterprise-grade AI development skills enhanced from Resonix for production workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "Resonix Development Team",
+    "email": "dev@resonix.com"
+  },
+  "homepage": "https://github.com/resonix/skills",
+  "repository": "https://github.com/resonix/skills",
+  "license": "MIT",
+  "keywords": ["resonix", "skills", "tdd", "debugging", "collaboration", "enterprise", "best-practices", "workflows", "production-ready"]
+}
