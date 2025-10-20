@@ -1,6 +1,6 @@
 # Resonix Skills Collection
 
-A curated collection of advanced AI development skills from the [Resonix](https://github.com/resonix/skills) project, adapted and enhanced for Resonix development workflows.
+A curated collection of advanced AI development skills from the [Resonix](https://github.com/Ariefrse/resonix) project, adapted and enhanced for Resonix development workflows.
 
 ## What You Get
 
