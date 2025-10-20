@@ -24,10 +24,8 @@ This collection has been specifically enhanced for Resonix workflows with:
 
 ## Origin
 
-This collection is adapted from the Resonix project originally created by Brandon Keepers, enhanced for Resonix development standards and workflows. All credit for the original skills and framework goes to Brandon Keepers and contributors.
+This collection is adapted from the Resonix project originally created by Brandon Keepers, enhanced for Resonix development standards and workflows. All credit for the original skills and framework goes to 
 
-- **Original Repository**: https://github.com/resonix/skills
-- **Original Author**: Brandon Keepers
 - **Adapted for**: Resonix Development Team
 
 ## Quick Start
@@ -98,7 +96,5 @@ Available slash commands (wrappers around skills):
 
 MIT License - same as original Resonix project. See [LICENSE](LICENSE) file for details.
 
-## Support
 
-- **Original Issues**: https://github.com/resonix/skills/issues
-- **Original Repository**: https://github.com/resonix/skills
+
